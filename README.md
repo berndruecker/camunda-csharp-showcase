@@ -76,7 +76,7 @@ camunda:formKey="embedded:deployment:CamundaModels.DE.decide.html"
 
 # The Camunda Client Class Library
 
-The Class Library [Camunda Client](CamundaClient) is not meant to be a re-usable, stable component. It is meant to serve as example and can be a starting point for your own code. Feel free to copy and modify the code, as it is released under Apache License you can do what you want with the code.
+The Class Library [Camunda Client](https://github.com/berndruecker/camunda-csharp-client) is not meant to be a re-usable, stable component. It is meant to serve as example and can be a starting point for your own code. Feel free to copy and modify the code, as it is released under Apache License you can do what you want with the code.
 
 ## Startup
 See [SimpleCalculationProcess Example´](SimpleCalculationProcess/Program.cs#L21-L24) on how-to start and stop the Camunda Client.

@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CamundaClient", "CamundaClient\CamundaClient.csproj", "{D316A8E0-09CB-4D66-B635-94860C3EB799}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleCalculationProcess", "SimpleCalculationProcess\SimpleCalculationProcess.csproj", "{ACA89FE7-C6D2-4F28-930C-D3C1C5749544}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InsuranceApplicationCamundaTasklist", "InsuranceApplicationCamundaTasklist\InsuranceApplicationCamundaTasklist.csproj", "{568C1DFC-324F-45BA-900B-3BDEFD6C16D5}"
